@@ -1,0 +1,44 @@
+Checking id Fibbonacci of 5   has been calculated earliewr or not
+Shit !  Fibonacci of 5  has not been calculated earlier, go and Calcuate  the fibonacci of  5
+First go and calculate fibonacci of  4
+Checking id Fibbonacci of 4   has been calculated earliewr or not
+Shit !  Fibonacci of 4  has not been calculated earlier, go and Calcuate  the fibonacci of  4
+First go and calculate fibonacci of  3
+Checking id Fibbonacci of 3   has been calculated earliewr or not
+Shit !  Fibonacci of 3  has not been calculated earlier, go and Calcuate  the fibonacci of  3
+First go and calculate fibonacci of  2
+Checking id Fibbonacci of 2   has been calculated earliewr or not
+Shit !  Fibonacci of 2  has not been calculated earlier, go and Calcuate  the fibonacci of  2
+First go and calculate fibonacci of  1
+Hitting base case, so will frirst store and then return 
+Recieving the value of F1 for   2   -> 1
+Now  go and calculate fibonacci of  0
+Hitting base case, so will frirst store and then return 
+Recieving the value of F2 for   2   -> 0
+Finally calculating the  fibonacci of  2
+Fibonacci of  2   is   1
+Storing the ans of  2  into dp
+Recieving the value of F1 for   3   -> 1
+Now  go and calculate fibonacci of  1
+Hitting base case, so will frirst store and then return 
+Recieving the value of F2 for   3   -> 1
+Finally calculating the  fibonacci of  3
+Fibonacci of  3   is   2
+Storing the ans of  3  into dp
+Recieving the value of F1 for   4   -> 2
+Now  go and calculate fibonacci of  2
+Checking id Fibbonacci of 2   has been calculated earliewr or not
+Wohho !   Fibonacci of   2   has alreaady been calculated, now just return that value.
+Recieving the value of F2 for   4   -> 1
+Finally calculating the  fibonacci of  4
+Fibonacci of  4   is   3
+Storing the ans of  4  into dp
+Recieving the value of F1 for   5   -> 3
+Now  go and calculate fibonacci of  3
+Checking id Fibbonacci of 3   has been calculated earliewr or not
+Wohho !   Fibonacci of   3   has alreaady been calculated, now just return that value.
+Recieving the value of F2 for   5   -> 2
+Finally calculating the  fibonacci of  5
+Fibonacci of  5   is   5
+Storing the ans of  5  into dp
+5

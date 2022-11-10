@@ -1,0 +1,23 @@
+Address of the main array [[I@7ad041f3
+length of the main array 5
+Addreass  of the array  stored at 0th  place is [I@6d06d69c
+Lenght of the array stored at 0th  place is 5
+Addreass  of the array  stored at 1th  place is [I@3d4eac69
+Lenght of the array stored at 1th  place is 10
+Addreass  of the array  stored at 2th  place is [I@42a57993
+Lenght of the array stored at 2th  place is 8
+Addreass  of the array  stored at 3th  place is [I@75b84c92
+Lenght of the array stored at 3th  place is 20
+Addreass  of the array  stored at 4th  place is [I@6bc7c054
+Lenght of the array stored at 4th  place is 15
+0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+Display the same array using another method
+0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 

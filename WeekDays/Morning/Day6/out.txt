@@ -1,0 +1,16 @@
+Calling function with the vaule of N -> 5
+5
+Having faith that the function will print the rest values starting from-> 4
+Calling function with the vaule of N -> 4
+4
+Having faith that the function will print the rest values starting from-> 3
+Calling function with the vaule of N -> 3
+3
+Having faith that the function will print the rest values starting from-> 2
+Calling function with the vaule of N -> 2
+2
+Having faith that the function will print the rest values starting from-> 1
+Calling function with the vaule of N -> 1
+1
+Having faith that the function will print the rest values starting from-> 0
+Hitting Base Case
