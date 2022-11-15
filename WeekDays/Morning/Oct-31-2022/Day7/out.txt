@@ -1,5 +1,21 @@
-1
-2
-3
-4
-5
+Print n for first time  calling function 1st time  ::3
+Print n for first time  calling function 1st time  ::2
+Print n for first time  calling function 1st time  ::1
+Print n for second time calling function 2nd time  :1
+Print n for Third and finally returning back :1
+Print n for second time calling function 2nd time  :2
+Print n for first time  calling function 1st time  ::1
+Print n for second time calling function 2nd time  :1
+Print n for Third and finally returning back :1
+Print n for Third and finally returning back :2
+Print n for second time calling function 2nd time  :3
+Print n for first time  calling function 1st time  ::2
+Print n for first time  calling function 1st time  ::1
+Print n for second time calling function 2nd time  :1
+Print n for Third and finally returning back :1
+Print n for second time calling function 2nd time  :2
+Print n for first time  calling function 1st time  ::1
+Print n for second time calling function 2nd time  :1
+Print n for Third and finally returning back :1
+Print n for Third and finally returning back :2
+Print n for Third and finally returning back :3
