@@ -1,0 +1,45 @@
+Finding the maximum profit when I have  3  items and the bag capacity is 10
+Here I have two choices 
+Finding the maximum profit when I have  2  items and the bag capacity is 7
+Here I have two choices 
+Finding the maximum profit when I have  1  items and the bag capacity is 5
+Here I have two choices 
+Finding the maximum profit when I have  0  items and the bag capacity is 4
+Base Case Hit !
+Profit When Picked the element is 20
+Finding the maximum profit when I have  0  items and the bag capacity is 5
+Base Case Hit !
+Profit When Not Picked the element is 0
+Profit When Picked the element is 25
+Finding the maximum profit when I have  1  items and the bag capacity is 7
+Here I have two choices 
+Finding the maximum profit when I have  0  items and the bag capacity is 6
+Base Case Hit !
+Profit When Picked the element is 20
+Finding the maximum profit when I have  0  items and the bag capacity is 7
+Base Case Hit !
+Profit When Not Picked the element is 0
+Profit When Not Picked the element is 20
+Profit When Picked the element is 35
+Finding the maximum profit when I have  2  items and the bag capacity is 10
+Here I have two choices 
+Finding the maximum profit when I have  1  items and the bag capacity is 8
+Here I have two choices 
+Finding the maximum profit when I have  0  items and the bag capacity is 7
+Base Case Hit !
+Profit When Picked the element is 20
+Finding the maximum profit when I have  0  items and the bag capacity is 8
+Base Case Hit !
+Profit When Not Picked the element is 0
+Profit When Picked the element is 25
+Finding the maximum profit when I have  1  items and the bag capacity is 10
+Here I have two choices 
+Finding the maximum profit when I have  0  items and the bag capacity is 9
+Base Case Hit !
+Profit When Picked the element is 20
+Finding the maximum profit when I have  0  items and the bag capacity is 10
+Base Case Hit !
+Profit When Not Picked the element is 0
+Profit When Not Picked the element is 20
+Profit When Not Picked the element is 25
+35
