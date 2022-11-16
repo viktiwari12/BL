@@ -13,7 +13,7 @@ class intro{
 
         //int profit  = kp(cost, wt, cost.length, W);
 
-        int dp[][] = new int[W+1][cost.length+1];
+        int dp[][] = new int[W+1][wt.length+1];
         for(int dpp[]: dp){
             Arrays.fill(dpp, -1);
         }
